@@ -1,2 +1,2 @@
 # cpprus
-test project
+test project for C++ Russia
