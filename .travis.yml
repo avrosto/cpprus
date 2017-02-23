@@ -30,5 +30,5 @@ addons:
                 - g++-4.9
                 - g++-5
                 - g++-6
-                - clang-3.9
-#                - clang-4.0
+                - clang++-3.9
+#                - clang++-4.0
