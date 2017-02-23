@@ -36,8 +36,8 @@ addons:
 matrix:
         include:
                 - os: osx
-                        osx_image: xcode6.4
-                        env: BUILD_TYPE=Debug
+                  osx_image: xcode6.4
+                  env: BUILD_TYPE=Debug
                 - os: osx
-                        osx_image: xcode7.3
-                        env: BUILD_TYPE=Debug
+                  osx_image: xcode7.3
+                  env: BUILD_TYPE=Debug
